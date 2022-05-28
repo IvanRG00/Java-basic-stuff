@@ -17,7 +17,7 @@ public class Main {
             }
             System.out.println("Bot's choice is: " + botchoice);
             if (move.equals(botchoice)) {
-                System.out.println("Its a tie");
+                System.out.println("It's a tie");
             } else if (move.equals("r")) {
                 if (botchoice.equals("p")) {
                     System.out.println("You lose");
