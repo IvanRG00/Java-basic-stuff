@@ -1,2 +1,2 @@
 # Java-basic-stuff
-# RockpaperScissors game made using while/if/else if
+# Rock paper Scissors game made using while/if/else if
